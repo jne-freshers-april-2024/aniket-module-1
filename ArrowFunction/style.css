@@ -1,0 +1,29 @@
+
+
+
+#arrow {
+    background-color: #008CBA; 
+    color: black;
+    padding: 15px 30px; 
+    border:black;
+    cursor: pointer;
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 8px;
+    font-size: 25px;
+    
+}
+
+
+#arrow:hover {
+    background-color: yellow;
+}
+
+
+#arrow:active {
+    background-color: blue;
+}
+
+h1{
+text-align: center;
+}
