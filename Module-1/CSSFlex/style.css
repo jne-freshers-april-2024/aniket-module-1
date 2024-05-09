@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: scroll;
+    background-color: DodgerBlue;
+    flex-direction: column;
+    border: 5px solid brown;
+    
+  }
+  
+  .box{
+    width:150px;
+    height: 150px;
+    border-radius: 15px;
+    font-size: 8em;
+    text-align: center;
+  }
+
+  #b1{
+    background-color: red;
+  }
+  #b2{
+    background-color: yellow;
+  }
+  #b3{
+    background-color: green;
+  }
+  #b4{
+    background-color: pink;
+  }
+  #b5{
+    background-color: brown;
+  }
+  #b6{
+    background-color: purple;
+  }
+  
