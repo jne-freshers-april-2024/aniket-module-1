@@ -1,0 +1,29 @@
+
+
+
+#p {
+    background-color: #008CBA; 
+    color: black;
+    padding: 15px 30px; 
+    border:black;
+    cursor: pointer;
+    display: block; 
+    margin: 0 auto; 
+    border-radius: 8px;
+    font-size: 25px;
+    
+}
+
+
+#p:hover {
+    background-color: yellow;
+}
+
+
+#p:active {
+    background-color: blue;
+}
+
+h2{
+    text-align: center;
+}
