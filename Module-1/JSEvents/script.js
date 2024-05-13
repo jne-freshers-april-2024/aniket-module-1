@@ -30,7 +30,31 @@ box1.addEventListener('click',()=>{
     console.log("clicked by event to event listener");
 })
 
-const box2=document.getElementById('b2');
-box2.addEventListener('dblclick',()=>{
-    console.log("doubleclicked by event to event lstener");
-})
+// const box2=document.getElementById('b2');
+// box2.addEventListener('dblclick',()=>{
+//     console.log("doubleclicked by event to event lstener");
+// })
+
+
+// function add() {
+//     let counter = 0;
+//     return function () {counter += 1; return counter;}
+//   }
+  
+
+//   const box3=document.getElementById('b2');
+// box3.addEventListener('click',()=>{
+//     console.log("clicked by event to event lstener");
+// })
+
+
+// const add = (function () {
+//     let counter = 0;
+//     return function () {counter += 1; return counter}
+//   })();
+  
+
+//   const box3=document.getElementById('b2');
+// box3.addEventListener('click',()=>{
+//     console.log("clicked by event to event lstener");
+// })

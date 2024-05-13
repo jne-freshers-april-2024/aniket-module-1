@@ -1,0 +1,43 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow: scroll;
+    background-color: DodgerBlue;
+    flex-direction: column;
+    border: 5px solid brown;
+    
+  }
+  
+  .box{
+    width:150px;
+    height: 150px;
+    border-radius: 15px;
+    font-size: 4em;
+    text-align: center;
+  }
+
+  #b1{
+    background-color: red;
+  }
+  #b2{
+    background-color: yellow;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #b3{
+    background-color: green;
+  }
+  #b4{
+    background-color: pink;
+  }
